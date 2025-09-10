@@ -8,5 +8,6 @@ FIGURE: [../../../Teaching/Figures/logo, width=100 frac=0.2]
 \fontsize{8pt}{7pt}\selectfont
 !et
 
+# #include "../../../MOD550/src/modules/data_distributions.part2.do.txt"
 # #include "../../../MOD550/src/modules/class_x_bivariate_statistics.do.txt"
 
