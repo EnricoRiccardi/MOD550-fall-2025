@@ -12,4 +12,3 @@ FIGURE: [../../../Teaching/Figures/logo, width=100 frac=0.2]
 # #include "../../../MOD550/src/modules/class_4.0_least_squared_method.do.txt"
 
 # #include "../../../MOD550/src/modules/class_4.2-ML_model_evaluation.do.txt"
-# #include "../../../MOD550/src/modules/class_4.4-Neural_net.do.txt"
