@@ -1,0 +1,30 @@
+Git repo: it work, but it is unclear where to find what. Also there are many files that I do not know how to use (for this you could guide me via a readme).
+
+Readme.md: Simple, it contains the essential but it lacks guidance in how to use the repo you built
+
+Task 1.1: missing 
+
+Task 1.2: missing
+
+Task 1.3: missing
+
+Task 1.4: missing
+
+Task 1.5: missing
+
+
+Comment:
+It is good that you started working with your project dataset, but you need to complete tasks 1.1 to 1.5 to pass the assignemnt.
+I maybe miss some in the code, there are multiple files and not a clear instruction how to deal with that.
+Please make a jupyter notebook for all the task 1, as described in canvas. Put in that folder a jupyter notebook and a .py file where you functions/classes are defined. Ask for clarifications if needed.
+
+The code also doesn't run:     raise KeyError(key) from err
+KeyError: '2016'
+
+SyntaxError: (unicode error) 'unicodeescape' codec can't decode bytes in position 66-67: truncated \UXXXXXXXX escape
+
+SyntaxError: invalid syntax
+
+etc
+
+As the assigmenents are mandatory, You have one week (27.9.2025) to complete task 1.1 to 1.5 to qualify to take the exam.

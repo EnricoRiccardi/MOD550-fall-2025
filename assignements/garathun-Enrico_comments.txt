@@ -1,0 +1,19 @@
+Git repo: it works, good order. Just the file First_class.y is unnecessary, but very nice otherwise.
+
+Readme.md: good!
+
+Task 1.1: good, but you could use your own class to generate the source data also.
+
+Task 1.2: good, very drammatic colors also :) 
+
+Task 1.3: Nice
+
+Task 1.4: Good! 
+
+Task 1.5: Good!
+
+Comment:
+Nice work. You miss docstring (description of input and output. 
+I would suggest to have a file (ipynb) for the cake and one file (.py) for the method only. 
+
+To get a detailed feedback on your coding style, install pylint. (pip install pyling). Then run it to get your code evaluated and some tips on how to improve (pylint mid_550_project_1.py)

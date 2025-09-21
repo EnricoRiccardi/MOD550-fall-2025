@@ -1,0 +1,19 @@
+Git repo: it works, but too may files around. I should just see what I need to check.  
+I only checked the notebook with Task1.
+
+Readme.md: good, but you forgot to say a bit about you.
+
+Task 1.1: good, but you could use your own class to generate the source data also.
+
+Task 1.2: good, very drammatic colors also :) 
+
+Task 1.3: There are errors here: e.g. NameError: name 'path' is not defined
+
+Task 1.4:  
+
+Task 1.5: Missing
+
+Comment:
+The DataAquisition class miss DOCSTRING! 
+Task 1,5 is missing. Please complete it before next assigment.
+

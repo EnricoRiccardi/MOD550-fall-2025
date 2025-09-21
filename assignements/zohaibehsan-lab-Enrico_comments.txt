@@ -1,0 +1,21 @@
+Git repo: it works, but too may files around. I should just see what I need to check.  Also, it is 1Gb of data, too much to a git (code sharing) repository. Consider to reduce it to a base minimum to still be able to complete the present task.
+I only checked the notebook with classes.
+
+Readme.md: good.
+
+Task 1.1: you made a heatmap here.
+
+Task 1.2: ok
+
+Task 1.3: Keep the notebook clean, I do not need to see test.csv is as follows:...
+
+Task 1.4: this is 1D histogram. The idea was to use task 1.1. to plot here.
+
+Task 1.5: you have only one distribution?
+
+Comment:
+You miss docstring in your data_aquisition class. 
+
+It look good and proper use of import, so that is good. 
+
+It is very ordered and it smels of AI generated code... I didn't mention it, but if ou used AI you should write a statement on how AI has been used.

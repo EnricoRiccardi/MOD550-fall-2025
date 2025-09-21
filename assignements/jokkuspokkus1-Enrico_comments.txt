@@ -1,0 +1,24 @@
+Git repo: it works, but too messy. No need to have a folder task for thusday... please help me to understand hwat is on with a proper order of files and folders with names that make sense also. Also, remove unnecessary files and cells in the notebook (e.g. print(data1) ).
+ 
+
+
+Readme.md: it is in the wrong folder and it needs some info about the repo and the author.
+
+Task 1.1: good, but I don't get why you didn't use your class
+
+Task 1.2: spot on.
+
+Task 1.3: good
+
+Task 1.4: good, but it should be related (more clearly) to your project. It is suppoused to be a data exploraiton, and here you have a single column of data.
+
+Task 1.5: good, but it should be related (more clearly) to your project.
+
+Comment:
+Docstring missing.
+Class names should be Capitalized: dataaquisition -> DataAquisition
+det data function is note very helpsul you can access data1 and data2 simply using da=dataquistiion(); a = da.data1;  b = da.data2
+These is more a stilistic comments, the set up is good.
+
+
+
