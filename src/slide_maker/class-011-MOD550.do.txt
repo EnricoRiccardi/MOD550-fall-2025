@@ -8,4 +8,5 @@ FIGURE: [../../../Teaching/Figures/logo, width=100 frac=0.2]
 \fontsize{8pt}{7pt}\selectfont
 !et
 
-# #include "../../../MOD550/src/modules/class_5.2_clustering.do.txt"
+# #include "../../../MOD550/src/modules/class_5.1_filters.do.txt"
+# #include "../../../MOD550/src/modules/class_x.pca.do.txt"
